@@ -1,0 +1,16 @@
+.header{
+  background-color:  #006BB6;
+  border-radius:10px;
+  font-family: monoton;
+  padding-bottom: 15px;
+}
+
+.golden-state{
+  color: #FDB927;
+}
+
+.content-stuff{
+  font-family: 'quicksand';
+  color: silver;
+  padding: 5%
+}
